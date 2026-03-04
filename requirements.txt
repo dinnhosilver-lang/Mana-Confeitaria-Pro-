@@ -1,1 +1,2 @@
-meu-app-precificacao.vercel.app)
+streamlit
+pandas
